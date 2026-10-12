@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>HR 82 DevOps</title>
+    <title>Magma-DevOps</title>
     <style>
         body {
             margin: 0;
@@ -18,6 +18,6 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to HR 82 DevOps</h1>
+    <h1>Welcome to Magma-DevOps</h1>
 </body>
 </html>
