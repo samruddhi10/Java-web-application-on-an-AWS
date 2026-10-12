@@ -18,7 +18,7 @@ public class WelcomeServlet extends HttpServlet {
         response.setContentType("text/html");
 
         response.getWriter().println(
-            "<h1 style='text-align:center;'>Welcome to HR 82 DevOps</h1>"
+            "<h1 style='text-align:center;'>Welcome to Magma-DevOps</h1>"
         );
     }
 }
